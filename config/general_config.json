@@ -1,0 +1,8 @@
+{
+    "code_dir": "terraform-aws-vpc/examples/block-public-access",
+    "storage_dir": "storage",
+    "store_save_file": "store.pkl",
+    "output_dir": "outputs",
+    "chunk_size": 128,
+    "overlap": 16
+}

@@ -1,0 +1,3 @@
+Modify the code from file <filename> to add security to the VPC module.
+Output the modified code from <filename> first then add a  <--SEP-->  separator line and provide a description of the changes made. 
+Do not output any descriptive text before the modified code.
