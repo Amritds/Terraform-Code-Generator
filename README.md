@@ -1,5 +1,5 @@
 # Terraform Code Generator
-This repository contains code to auto-generate new Terraform Code that modifies an existing codoe base using API calls to a given pre-trained LLM and a custom RAG-pipeline. 
+This repository contains code to auto-generate new Terraform Code that modifies an existing code base using API calls to a given pre-trained LLM and a custom RAG-pipeline. 
 
 As a default functionality, scripts search for a VPC module within a given terraform code directory and update existing code-files by adding security configurations. Changes are saved to outputs.
 
